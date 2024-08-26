@@ -1,0 +1,882 @@
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Camera.MAUI.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\zxing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Info.plist
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\CodeResources
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSkiaSharp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AppSettings.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\red.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\tickkk.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\user.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Emgu.CV.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.GLControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Common.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\ZedGraph.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AppSettings.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Camera.MAUI.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Emgu.CV.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.GLControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Common.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\ZedGraph.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\zxing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Info.plist
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\CodeResources
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSkiaSharp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\red.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\tickkk.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\user.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AppSettings.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Camera.MAUI.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Emgu.CV.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\OpenTK.GLControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Common.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\ZedGraph.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\zxing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\red.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\tickkk.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\user.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\facelogo.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\PINView.Maui.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\CalendarView.MAUI.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-ios\iossimulator-x64\Plugin.Maui.Calendar.dll

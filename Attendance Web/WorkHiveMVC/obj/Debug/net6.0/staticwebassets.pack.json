@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\Theme\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\Theme\\adminlte.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\Theme\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\Theme\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\Theme\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\Theme\\all.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\jobdetails.css",
+      "PackagePath": "staticwebassets\\css\\jobdetails.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\jobs.css",
+      "PackagePath": "staticwebassets\\css\\jobs.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\landingpage.css",
+      "PackagePath": "staticwebassets\\css\\landingpage.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\appstore.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\company1.png",
+      "PackagePath": "staticwebassets\\images\\company1.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\facelogo.png",
+      "PackagePath": "staticwebassets\\images\\facelogo.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\ggogleplay.png",
+      "PackagePath": "staticwebassets\\images\\ggogleplay.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\home-info.jpg",
+      "PackagePath": "staticwebassets\\images\\home-info.jpg"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\img_avatar2.png",
+      "PackagePath": "staticwebassets\\images\\img_avatar2.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\login-img.png",
+      "PackagePath": "staticwebassets\\images\\login-img.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\macos.png",
+      "PackagePath": "staticwebassets\\images\\macos.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\person.jpg",
+      "PackagePath": "staticwebassets\\images\\person.jpg"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\windows.png",
+      "PackagePath": "staticwebassets\\images\\windows.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\images\\workhivelogo.png",
+      "PackagePath": "staticwebassets\\images\\workhivelogo.png"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\Theme\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\Theme\\adminlte.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\Theme\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\Theme\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\Theme\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\Theme\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\client.js",
+      "PackagePath": "staticwebassets\\js\\client.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\jobs.js",
+      "PackagePath": "staticwebassets\\js\\jobs.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\jquery.dateandtime.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dateandtime.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\rater.js",
+      "PackagePath": "staticwebassets\\js\\rater.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Works\\System design project\\AttendanceMVC\\WorkHiveMVC\\WorkHiveMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AttendanceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AttendanceWeb.props",
+      "PackagePath": "build\\AttendanceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AttendanceWeb.props",
+      "PackagePath": "buildMultiTargeting\\AttendanceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AttendanceWeb.props",
+      "PackagePath": "buildTransitive\\AttendanceWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

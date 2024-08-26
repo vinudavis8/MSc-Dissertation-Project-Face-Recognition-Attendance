@@ -1,0 +1,9 @@
+Error training model:
+OpenCV: could not find a writer for the specified extension
+   at FaceClass.LBPHFace.TrainModel(String studentId, Image`2 bgrFrame)
+   at WebApplication3.Controllers.FaceController.Train(TrainModelRequest request) in D:\Works\System design project\Dissertation projects\WebApplication3\WebApplication3\Controllers\FaceController.cs:line 136
+
+OpenCV: could not find a writer for the specified extension
+   at FaceClass.LBPHFace.TrainModel(String studentId, Image`2 bgrFrame)
+   at WebApplication3.Controllers.FaceController.Train(TrainModelRequest request) in D:\Works\System design project\Dissertation projects\WebApplication3\WebApplication3\Controllers\FaceController.cs:line 136
+

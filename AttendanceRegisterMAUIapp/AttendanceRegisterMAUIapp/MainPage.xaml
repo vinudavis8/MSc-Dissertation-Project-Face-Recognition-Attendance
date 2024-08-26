@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+             x:Class="AttendanceRegisterMAUIapp.MainPage">
+    <StackLayout >
+  <StackLayout BackgroundColor="#004849" >
+      <Label Text="" FontSize="20" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+  </StackLayout>
+        <Grid>
+            <!-- Camera Feed -->
+            <cv:CameraView
+            x:Name="cameraView"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand"
+            CamerasLoaded="cameraView_CamerasLoaded" />
+            <!-- Overlay for face guide -->
+            <Grid x:Name="OverlayGrid"
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="FillAndExpand"
+              BackgroundColor="Transparent">
+                <!-- Transparent rectangle with border -->
+                <Frame
+                BackgroundColor="Transparent"
+                BorderColor="Teal"
+                HasShadow="False"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="300"
+                HeightRequest="400" />
+                <!-- Optional: Text instructions -->
+                <Label
+                Text="Align your face within the box"
+                TextColor="White"
+                HorizontalOptions="Center"
+                VerticalOptions="End"
+                Margin="0,0,0,20"
+                FontAttributes="Bold"
+                BackgroundColor="Black"
+                Opacity="0.7" />
+            </Grid>
+            <!-- Bottom controls -->
+        <StackLayout Orientation="Vertical"
+                     HorizontalOptions="Center"
+                     VerticalOptions="End"
+                     Padding="10"
+                     Spacing="10"
+                     Margin="0,0,0,20">
+            <Button
+                x:Name="BtnSubmit"
+                Text="Checkin"
+                HorizontalOptions="Center"
+                Clicked="BtnSubmit_Clicked" />
+                <Button
+     x:Name="BtnSubmitBrowse"
+     Text="Load Image"
+     HorizontalOptions="Center"
+     Clicked="BtnSubmitBrowse_Clicked" />
+                <Image
+                x:Name="myImage"
+                WidthRequest="100"
+                HeightRequest="100"
+                HorizontalOptions="Center" />
+        </StackLayout>
+    </Grid>
+    </StackLayout>
+</ContentPage>

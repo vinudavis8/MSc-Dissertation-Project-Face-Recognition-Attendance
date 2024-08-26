@@ -1,0 +1,58 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AttendanceRegisterMAUIapp.Pages.Registration"
+             xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+             Title="">
+    <ScrollView>
+
+        <StackLayout Padding="20" Spacing="20">
+            <!-- Personal Information -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Entry Placeholder="First Name" x:Name="FirstNameEntry" HorizontalOptions="FillAndExpand" />
+                <Entry Placeholder="Last Name" x:Name="LastNameEntry" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <!-- Contact Information -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Entry Placeholder="Email" x:Name="EmailEntry" HorizontalOptions="FillAndExpand" />
+                <Entry Placeholder="Phone Number" x:Name="PhoneNumberEntry" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <!-- Email and Password -->
+            <Entry Placeholder="Password" IsPassword="True" x:Name="PasswordEntry" HorizontalOptions="FillAndExpand" />
+
+            <!-- Address -->
+            <Entry Placeholder="Address" x:Name="AddressEntry" HorizontalOptions="FillAndExpand" />
+            <DatePicker x:Name="DateOfBirthPicker" />
+            <!-- Academic Information -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Picker x:Name="DepartmentPicker" Title="Department" SelectedIndexChanged="DepartmentPicker_SelectedIndexChanged" HorizontalOptions="FillAndExpand" />
+                <Picker x:Name="CoursePicker" Title="Course" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <!-- Camera and Image -->
+            <cv:CameraView x:Name="cameraView" HeightRequest="200" CamerasLoaded="cameraView_CamerasLoaded" HorizontalOptions="FillAndExpand" />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Padding="20" Spacing="20">
+                <!-- First Image and Button -->
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                    <Image x:Name="myImage1" Source="user.png" HeightRequest="100" HorizontalOptions="FillAndExpand" />
+                    <Button Text="Capture" Clicked="ButtonImage1_Clicked" HorizontalOptions="Center" />
+                </StackLayout>
+
+                <!-- Second Image and Button -->
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                    <Image x:Name="myImage2" Source="user.png" HeightRequest="100" HorizontalOptions="FillAndExpand" />
+                    <Button Text="Capture" Clicked="ButtonImage2_Clicked" HorizontalOptions="Center" />
+                </StackLayout>
+
+                <!-- Third Image and Button -->
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <Image x:Name="myImage3" Source="user.png" HeightRequest="100" HorizontalOptions="FillAndExpand" />
+                    <Button Text="Capture" Clicked="ButtonImage3_Clicked" HorizontalOptions="Center" />
+                </StackLayout>
+            </StackLayout>
+            <!-- Submit Button -->
+            <Button Text="Submit" Clicked="OnSubmitButtonClicked" HorizontalOptions="Center" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

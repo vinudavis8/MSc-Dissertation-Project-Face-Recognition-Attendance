@@ -1,0 +1,1071 @@
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.exe
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.deps.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Camera.MAUI.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\zxing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1123.42427.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Core.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Windows.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Controls.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\red.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\tickkk.scale-100.png
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppSettings.json
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Emgu.CV.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Common.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.GLControl.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ZedGraph.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\cvextern.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libusb-1.0.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\opencv_videoio_ffmpeg490_64.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\concrt140.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_1.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_2.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_atomic_wait.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_codecvt_ids.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140.dll
+D:\Works\System design project\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140_1.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.exe
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppSettings.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.deps.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Camera.MAUI.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Emgu.CV.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.GLControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Common.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ZedGraph.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\zxing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\cvextern.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libusb-1.0.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\opencv_videoio_ffmpeg490_64.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\concrt140.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_1.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_2.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_atomic_wait.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_codecvt_ids.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140_1.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1123.42427.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\red.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\tickkk.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Works\System design project\backups\New folder\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.exe
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppSettings.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.deps.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.runtimeconfig.json
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Camera.MAUI.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Emgu.CV.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.SystemEvents.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\OpenTK.GLControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Common.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ZedGraph.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\zxing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\cvextern.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libusb-1.0.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\opencv_videoio_ffmpeg490_64.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\concrt140.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_1.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_2.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_atomic_wait.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msvcp140_codecvt_ids.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\vcruntime140_1.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1123.42427.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.AssemblyReference.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\red.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\tickkk.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfoInputs.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.AssemblyInfo.cs
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CoreCompileInputs.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.csproj.CopyComplete
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.pdb
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\AttendanceRegisterMAUIapp.genruntimeconfig.cache
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\AttendanceRegisterMAUIapp.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PINView.Maui.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\facelogo.scale-100.png
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Plugin.Maui.Calendar.dll
+D:\Works\System design project\Dissertation projects\AttendanceRegisterMAUIapp\AttendanceRegisterMAUIapp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CalendarView.MAUI.dll

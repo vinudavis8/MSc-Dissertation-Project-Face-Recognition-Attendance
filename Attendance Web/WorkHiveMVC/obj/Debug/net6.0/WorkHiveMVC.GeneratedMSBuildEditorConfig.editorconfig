@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WorkHiveMVC
+build_property.RootNamespace = WorkHiveMVC
+build_property.ProjectDir = D:\Works\System design project\AttendanceMVC\WorkHiveMVC\WorkHiveMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Works\System design project\AttendanceMVC\WorkHiveMVC\WorkHiveMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Admin/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Admin/Departments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVwYXJ0bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Admin/Jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSm9icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Client/Bids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEJpZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Client/CreateJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Client/EditJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXRKb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Client/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXRQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Client/MyJobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE15Sm9icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Course/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENvdXJzZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Department/DepartmentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Freelancer/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZWxhbmNlclxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Freelancer/FreelancersMapView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZWxhbmNlclxGcmVlbGFuY2Vyc01hcFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Freelancer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZWxhbmNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Freelancer/ViewProposals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZWxhbmNlclxWaWV3UHJvcG9zYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Home/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMYW5kaW5nUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Jobs/JobDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xKb2JEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Jobs/JobSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xKb2JTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Jobs/_PartialViewJobCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xfUGFydGlhbFZpZXdKb2JDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Module/CourseScheduleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXENvdXJzZVNjaGVkdWxlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Module/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Module/ModuleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXE1vZHVsZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Module/_PartialScheduleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxlXF9QYXJ0aWFsU2NoZWR1bGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/User/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/User/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Works/System design project/AttendanceMVC/WorkHiveMVC/WorkHiveMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

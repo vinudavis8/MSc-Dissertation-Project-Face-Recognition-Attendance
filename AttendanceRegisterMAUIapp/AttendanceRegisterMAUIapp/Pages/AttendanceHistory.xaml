@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AttendanceRegisterMAUIapp.Pages.AttendanceHistory"
+             Title="AttendanceHistory">
+    <ListView x:Name="AttendanceListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding AttendanceDate, StringFormat='Date: {0:d}'}" FontSize="Medium"/>
+                            <Label Text="{Binding courseModule.Name}" FontSize="Small" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+</ContentPage>
